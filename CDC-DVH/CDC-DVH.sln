@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CDC-DVH", "CDC-DVH\CDC-DVH.dtproj", "{59445164-235E-43E5-864B-7B1E7ECBDC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59445164-235E-43E5-864B-7B1E7ECBDC30}.Development|Default.ActiveCfg = Development
+		{59445164-235E-43E5-864B-7B1E7ECBDC30}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56787008-103B-4093-8DA3-7C283E6CE029}
+	EndGlobalSection
+EndGlobal
